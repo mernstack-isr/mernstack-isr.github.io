@@ -1,8 +1,9 @@
 {
   "main.css": "static/css/main.bac955f5.css",
   "main.css.map": "static/css/main.bac955f5.css.map",
-  "main.js": "static/js/main.53697ee8.js",
-  "main.js.map": "static/js/main.53697ee8.js.map",
+  "main.js": "static/js/main.70c306ec.js",
+  "main.js.map": "static/js/main.70c306ec.js.map",
   "static/media/anime.gif": "static/media/anime.c0ab5165.gif",
-  "static/media/isr4b.png": "static/media/isr4b.386d4849.png"
+  "static/media/isr4b.png": "static/media/isr4b.386d4849.png",
+  "static/media/login.png": "static/media/login.e0b76439.png"
 }
